@@ -1,11 +1,12 @@
 .custom-container {
-    background-color: rgb(98, 98, 105);
+    background-color: #818391;
     margin-left: 10%;
     max-width: 50%;
 }
  
 .navbar-collapse {         
     justify-content: flex-end;
+
 } 
 
 .bgimg-1  {
@@ -13,5 +14,8 @@
   }
  
 body {
-    background-color: rgb(32, 32, 46);
+    background-color: rgb(26, 29, 48);
+}
+.bg-light{
+    background-color: rgb(80, 80, 95)!important
 }
