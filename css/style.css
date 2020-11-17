@@ -19,3 +19,6 @@ body {
 .bg-light{
     background-color: rgb(80, 80, 95)!important
 }
+img {
+    border: 1px solid #555;
+  }
